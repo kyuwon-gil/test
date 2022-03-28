@@ -1,4 +1,4 @@
 test
 
  1. commit;
- slow page load
+ sigle page application(spa)
